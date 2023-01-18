@@ -1,1 +1,2343 @@
-{"Data":[{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":1,"subCategoryName":"Dine In restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":2,"subCategoryName":"Bar"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":3,"subCategoryName":"Takeaway"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":4,"subCategoryName":"Delivery Only"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":5,"subCategoryName":"Catering"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":6,"subCategoryName":"Coffee Shop"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":7,"subCategoryName":"Juice Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":8,"subCategoryName":"Financial Services"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":9,"subCategoryName":"Administrative Services"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":10,"subCategoryName":"Beauty"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":11,"subCategoryName":"Petrol"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":12,"subCategoryName":"Laundry"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":13,"subCategoryName":"Daycare"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":14,"subCategoryName":"Education"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":15,"subCategoryName":"Jobs"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":16,"subCategoryName":"Logistics \/ Courier"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":17,"subCategoryName":"Travel Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":18,"subCategoryName":"Telcom"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":19,"subCategoryName":"Real Estate"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":20,"subCategoryName":"Vehicle Repairs And Services"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":21,"subCategoryName":"Funeral Etc"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":22,"subCategoryName":"Apparel"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":23,"subCategoryName":"Electronics"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":24,"subCategoryName":"Appliances"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":25,"subCategoryName":"Wine \/ Alcohol Shops"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":26,"subCategoryName":"Grocery"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":27,"subCategoryName":"Books"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":28,"subCategoryName":"Gifts"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":29,"subCategoryName":"Beauty Products"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":30,"subCategoryName":"Home And Furniture"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":31,"subCategoryName":"Malls"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":32,"subCategoryName":"Sports Shops"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":33,"subCategoryName":"Vehicles And Vehicle Parts"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":34,"subCategoryName":"Hotel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":35,"subCategoryName":"Guest House"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":36,"subCategoryName":"Pharmacy"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":37,"subCategoryName":"Hospital"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":38,"subCategoryName":"Clinic"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":39,"subCategoryName":"Dental Clinics"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":40,"subCategoryName":"Homeopathy \/ Ayurveda"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":41,"subCategoryName":"Labs"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":42,"subCategoryName":"Pet Clinic"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":43,"subCategoryName":"Cinema"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":44,"subCategoryName":"Spa"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":45,"subCategoryName":"Place Of Worship"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":46,"subCategoryName":"Tourist Attractions"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":47,"subCategoryName":"Event Venues"},{"IsMobileNoMandatory":false,"categoryId":23,"subCategoryId":48,"subCategoryName":"Sports Centers Etc"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":49,"subCategoryName":"Amusement Center"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":50,"subCategoryName":"Amusement Park"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":51,"subCategoryName":"Art Gallery"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":52,"subCategoryName":"Art Museum"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":53,"subCategoryName":"Bowling Alley"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":54,"subCategoryName":"Community Center"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":55,"subCategoryName":"Event Venue"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":56,"subCategoryName":"Golf Club"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":57,"subCategoryName":"Golf Course"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":58,"subCategoryName":"Live Music Venue"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":59,"subCategoryName":"Movie Theater"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":60,"subCategoryName":"Museum"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":61,"subCategoryName":"National Park"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":62,"subCategoryName":"Night Club"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":63,"subCategoryName":"Park"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":64,"subCategoryName":"Performing Arts Theater"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":65,"subCategoryName":"Stadium"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":66,"subCategoryName":"Theme Park"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":67,"subCategoryName":"Tourist Attraction"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":68,"subCategoryName":"Water Park"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":69,"subCategoryName":"Winery"},{"IsMobileNoMandatory":false,"categoryId":24,"subCategoryId":70,"subCategoryName":"Zoo"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":71,"subCategoryName":"Ashram"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":72,"subCategoryName":"Bahá'í House of Worship"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":73,"subCategoryName":"Baptist Church"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":74,"subCategoryName":"Buddhist Temple"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":75,"subCategoryName":"Catholic Church"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":76,"subCategoryName":"Church"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":77,"subCategoryName":"Convent"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":78,"subCategoryName":"Gurudwara"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":79,"subCategoryName":"Hindu Temple"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":80,"subCategoryName":"Jain Temple"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":81,"subCategoryName":"Mission"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":82,"subCategoryName":"Monastery"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":83,"subCategoryName":"Mosque"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":84,"subCategoryName":"Pagoda"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":85,"subCategoryName":"Pilgrimage Place"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":86,"subCategoryName":"Place of Worship"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":87,"subCategoryName":"Religious Destination"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":88,"subCategoryName":"Shinto Shrine"},{"IsMobileNoMandatory":false,"categoryId":25,"subCategoryId":89,"subCategoryName":"Synagogue"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":90,"subCategoryName":"College"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":91,"subCategoryName":"Community College"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":92,"subCategoryName":"Elementary School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":93,"subCategoryName":"High School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":94,"subCategoryName":"Kindergarten"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":95,"subCategoryName":"Middle School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":96,"subCategoryName":"Preschool"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":97,"subCategoryName":"Primary School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":98,"subCategoryName":"Private School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":99,"subCategoryName":"Public School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":100,"subCategoryName":"Public University"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":101,"subCategoryName":"School"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":102,"subCategoryName":"Tutoring Service"},{"IsMobileNoMandatory":false,"categoryId":26,"subCategoryId":103,"subCategoryName":"University"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":104,"subCategoryName":"Apartment Building"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":105,"subCategoryName":"Apartment Complex"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":106,"subCategoryName":"Cemetery"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":107,"subCategoryName":"City Government Office"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":108,"subCategoryName":"City or Town Hall"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":109,"subCategoryName":"Condominium Complex"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":110,"subCategoryName":"County Government Office"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":111,"subCategoryName":"Department of Motor Vehicles"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":112,"subCategoryName":"Electric Utility Company"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":113,"subCategoryName":"Government Office"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":114,"subCategoryName":"Industrial Area"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":115,"subCategoryName":"Library"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":116,"subCategoryName":"Local Government Office"},{"IsMobileNoMandatory":false,"categoryId":27,"subCategoryId":117,"subCategoryName":"Public Library"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":358,"subCategoryName":"Indian Sweets Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":359,"subCategoryName":"Astrologer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":360,"subCategoryName":"Mobile Phone Repair Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":361,"subCategoryName":"Musical Instrument Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":362,"subCategoryName":"Dairy Store"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":363,"subCategoryName":"Moving Company"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":364,"subCategoryName":"Fruit & Vegetable Store"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":118,"subCategoryName":"Car Rental Agency"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":119,"subCategoryName":"Driving School"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":120,"subCategoryName":"Gas Station"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":121,"subCategoryName":"Parking Garage"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":122,"subCategoryName":"Parking Lot"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":123,"subCategoryName":"Taxi Service"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":124,"subCategoryName":"Transportation Service"},{"IsMobileNoMandatory":false,"categoryId":28,"subCategoryId":125,"subCategoryName":"Truck Rental Agency"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":126,"subCategoryName":"ATM"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":127,"subCategoryName":"Accountant"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":128,"subCategoryName":"Bank"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":129,"subCategoryName":"Credit Union"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":130,"subCategoryName":"Financial Consultant"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":131,"subCategoryName":"Financial Planner"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":132,"subCategoryName":"Insurance Agency"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":133,"subCategoryName":"Loan Agency"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":134,"subCategoryName":"Money Transfer Service"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":135,"subCategoryName":"Savings Bank"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":136,"subCategoryName":"Tax Consultant"},{"IsMobileNoMandatory":false,"categoryId":29,"subCategoryId":137,"subCategoryName":"Tax Preparation Service"},{"IsMobileNoMandatory":false,"categoryId":30,"subCategoryId":138,"subCategoryName":"Fire Station"},{"IsMobileNoMandatory":false,"categoryId":30,"subCategoryId":139,"subCategoryName":"Police Department"},{"IsMobileNoMandatory":false,"categoryId":30,"subCategoryId":140,"subCategoryName":"Police Station"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":141,"subCategoryName":"Air Conditioning Contractor"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":142,"subCategoryName":"Architect"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":143,"subCategoryName":"Business Management Consultant"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":144,"subCategoryName":"Computer Consultant"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":145,"subCategoryName":"Consultant"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":146,"subCategoryName":"Contractor"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":147,"subCategoryName":"Engineer"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":148,"subCategoryName":"Engineering Consultant"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":149,"subCategoryName":"Internet Marketing Service"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":150,"subCategoryName":"Landscaper"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":151,"subCategoryName":"Lawyer"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":152,"subCategoryName":"Legal Services"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":153,"subCategoryName":"Notary Public"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":154,"subCategoryName":"Software Company"},{"IsMobileNoMandatory":false,"categoryId":31,"subCategoryId":155,"subCategoryName":"Website Designer"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":156,"subCategoryName":"American Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":157,"subCategoryName":"Asian Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":158,"subCategoryName":"Bakery"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":159,"subCategoryName":"Bar"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":160,"subCategoryName":"Bar & Grill"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":161,"subCategoryName":"Barbecue Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":162,"subCategoryName":"Breakfast Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":163,"subCategoryName":"Buffet Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":164,"subCategoryName":"Cafe"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":165,"subCategoryName":"Chicken Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":166,"subCategoryName":"Chicken Wings Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":167,"subCategoryName":"Chinese Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":168,"subCategoryName":"Coffee Shop"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":169,"subCategoryName":"Deli"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":170,"subCategoryName":"Diner"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":171,"subCategoryName":"Family Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":172,"subCategoryName":"Fast Food Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":173,"subCategoryName":"French Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":174,"subCategoryName":"Hamburger Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":175,"subCategoryName":"Ice Cream Shop"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":176,"subCategoryName":"Indian Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":177,"subCategoryName":"Italian Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":178,"subCategoryName":"Japanese Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":179,"subCategoryName":"Korean Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":180,"subCategoryName":"Meal Takeaway"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":181,"subCategoryName":"Mexican Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":182,"subCategoryName":"Pizza Delivery"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":183,"subCategoryName":"Pizza Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":184,"subCategoryName":"Pub"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":185,"subCategoryName":"Ramen Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":186,"subCategoryName":"Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":187,"subCategoryName":"Sandwich Shop"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":188,"subCategoryName":"Seafood Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":189,"subCategoryName":"Sports Bar"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":190,"subCategoryName":"Steak House"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":191,"subCategoryName":"Sushi Restaurant"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":192,"subCategoryName":"Tea House"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":193,"subCategoryName":"Thai Restaurant"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":194,"subCategoryName":"Advertising Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":195,"subCategoryName":"Auto Body Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":196,"subCategoryName":"Auto Repair Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":197,"subCategoryName":"Barber Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":198,"subCategoryName":"Beauty Salon"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":199,"subCategoryName":"Cabinet Maker"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":200,"subCategoryName":"Cable Company"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":201,"subCategoryName":"Car Repair and Maintenance"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":202,"subCategoryName":"Car Wash"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":203,"subCategoryName":"Caterer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":204,"subCategoryName":"Cleaning Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":205,"subCategoryName":"Commercial Printer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":206,"subCategoryName":"Computer Repair Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":207,"subCategoryName":"Construction Company"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":208,"subCategoryName":"Courier Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":209,"subCategoryName":"Dance School"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":210,"subCategoryName":"Day Care Center"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":211,"subCategoryName":"Dry Cleaner"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":212,"subCategoryName":"Electrician"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":213,"subCategoryName":"Employment Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":214,"subCategoryName":"Event Planner"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":215,"subCategoryName":"Freight Forwarding Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":216,"subCategoryName":"Funeral Home"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":217,"subCategoryName":"General Contractor"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":218,"subCategoryName":"Gym"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":219,"subCategoryName":"Hair Salon"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":220,"subCategoryName":"Health Club"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":221,"subCategoryName":"Home Builder"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":222,"subCategoryName":"House Cleaning Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":223,"subCategoryName":"Interior Designer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":224,"subCategoryName":"Internet Service Provider"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":225,"subCategoryName":"Laundry Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":226,"subCategoryName":"Marketing Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":227,"subCategoryName":"Massage Therapist"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":228,"subCategoryName":"Movie Rental Kiosk"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":229,"subCategoryName":"Nail Salon"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":230,"subCategoryName":"Newspaper Publisher"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":231,"subCategoryName":"Painter"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":232,"subCategoryName":"Pest Control Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":233,"subCategoryName":"Photographer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":234,"subCategoryName":"Plumber"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":235,"subCategoryName":"Post Office"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":236,"subCategoryName":"Property Management Company"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":237,"subCategoryName":"Public Swimming Pool"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":238,"subCategoryName":"Publisher"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":239,"subCategoryName":"Real Estate Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":240,"subCategoryName":"Real Estate Agents"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":241,"subCategoryName":"Real Estate Developer"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":242,"subCategoryName":"Roofing Contractor"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":243,"subCategoryName":"Shipping Company"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":244,"subCategoryName":"Shipping and Mailing Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":245,"subCategoryName":"Spa"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":246,"subCategoryName":"Tailor"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":247,"subCategoryName":"Telecommunications Service Provider"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":248,"subCategoryName":"Tire Shop"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":249,"subCategoryName":"Tourist Information Center"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":250,"subCategoryName":"Travel Agency"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":251,"subCategoryName":"Trucking Company"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":252,"subCategoryName":"Appliance Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":253,"subCategoryName":"Auto Parts Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":254,"subCategoryName":"Baby Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":255,"subCategoryName":"Beauty Supply Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":256,"subCategoryName":"Bicycle Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":257,"subCategoryName":"Book Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":258,"subCategoryName":"Boutique"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":259,"subCategoryName":"Bridal Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":260,"subCategoryName":"Building Materials Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":261,"subCategoryName":"Butcher Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":262,"subCategoryName":"Car Dealer"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":263,"subCategoryName":"Cell Phone Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":264,"subCategoryName":"Children's Clothing Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":265,"subCategoryName":"Clothing Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":266,"subCategoryName":"Coffee Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":267,"subCategoryName":"Computer Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":268,"subCategoryName":"Convenience Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":269,"subCategoryName":"Cosmetics Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":270,"subCategoryName":"Craft Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":271,"subCategoryName":"Department Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":272,"subCategoryName":"Dessert Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":273,"subCategoryName":"Discount Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":274,"subCategoryName":"Discount Supermarket"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":275,"subCategoryName":"Donut Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":276,"subCategoryName":"Drug Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":277,"subCategoryName":"Electrical Supply Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":278,"subCategoryName":"Electronics Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":279,"subCategoryName":"Fabric Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":280,"subCategoryName":"Fashion Accessories Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":281,"subCategoryName":"Florist"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":282,"subCategoryName":"Furniture Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":283,"subCategoryName":"General Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":284,"subCategoryName":"Gift Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":285,"subCategoryName":"Grocery Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":286,"subCategoryName":"Hardware Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":287,"subCategoryName":"Health Food Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":288,"subCategoryName":"Home Goods Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":289,"subCategoryName":"Home Improvement Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":290,"subCategoryName":"Jeweler"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":291,"subCategoryName":"Jewelry Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":292,"subCategoryName":"Lingerie Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":293,"subCategoryName":"Liquor Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":294,"subCategoryName":"Lottery Retailer"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":295,"subCategoryName":"Market"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":296,"subCategoryName":"Men's Clothing Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":297,"subCategoryName":"Motorcycle Dealer"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":298,"subCategoryName":"Office Supply Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":299,"subCategoryName":"Optician"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":300,"subCategoryName":"Outdoor Sports Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":301,"subCategoryName":"Outlet Mall"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":302,"subCategoryName":"Paint Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":303,"subCategoryName":"Pawn Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":304,"subCategoryName":"Pet Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":305,"subCategoryName":"Pet Supply Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":306,"subCategoryName":"Pharmacy"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":307,"subCategoryName":"Print Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":308,"subCategoryName":"Shoe Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":309,"subCategoryName":"Shopping Mall"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":310,"subCategoryName":"Sporting Goods Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":311,"subCategoryName":"Sportswear Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":312,"subCategoryName":"Stationery Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":313,"subCategoryName":"Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":314,"subCategoryName":"Supermarket"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":315,"subCategoryName":"Tattoo Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":316,"subCategoryName":"Thrift Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":317,"subCategoryName":"Tobacco Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":318,"subCategoryName":"Toy Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":319,"subCategoryName":"Used Car Dealer"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":320,"subCategoryName":"Video Game Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":321,"subCategoryName":"Warehouse club"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":322,"subCategoryName":"Wine Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":323,"subCategoryName":"Women's Clothing Store"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":324,"subCategoryName":"Beach Resort"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":325,"subCategoryName":"Bed & Breakfast"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":326,"subCategoryName":"Budget Hotel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":327,"subCategoryName":"Campground"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":328,"subCategoryName":"Extended Stay Hotel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":329,"subCategoryName":"Guest House"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":330,"subCategoryName":"Hostel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":331,"subCategoryName":"Hotel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":332,"subCategoryName":"Luxury Hotel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":333,"subCategoryName":"Motel"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":334,"subCategoryName":"RV Park"},{"IsMobileNoMandatory":false,"categoryId":21,"subCategoryId":335,"subCategoryName":"Resort"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":336,"subCategoryName":"Animal Hospital"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":337,"subCategoryName":"Chiropractor"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":338,"subCategoryName":"Dental Clinic"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":339,"subCategoryName":"Dentist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":340,"subCategoryName":"Dermatologist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":341,"subCategoryName":"Doctor"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":342,"subCategoryName":"Eye Care Center"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":343,"subCategoryName":"Family Practice Physician"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":344,"subCategoryName":"General Practitioner"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":345,"subCategoryName":"Home Health Care Service"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":346,"subCategoryName":"Hospital"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":347,"subCategoryName":"Internist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":348,"subCategoryName":"Medical Center"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":349,"subCategoryName":"Medical Clinic"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":350,"subCategoryName":"Medical Laboratory"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":351,"subCategoryName":"Nursing Agency"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":352,"subCategoryName":"Obstetrician-Gynecologist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":353,"subCategoryName":"Optometrist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":354,"subCategoryName":"Pediatrician"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":355,"subCategoryName":"Physical Therapist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":356,"subCategoryName":"Psychologist"},{"IsMobileNoMandatory":false,"categoryId":22,"subCategoryId":357,"subCategoryName":"Veterinarian"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":365,"subCategoryName":"Food Delivery"},{"IsMobileNoMandatory":false,"categoryId":18,"subCategoryId":366,"subCategoryName":"Dhaba"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":367,"subCategoryName":"Appliance Repair Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":368,"subCategoryName":"Passport Office"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":369,"subCategoryName":"Internet Cafe"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":370,"subCategoryName":"Sewing Machine Repair Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":371,"subCategoryName":"Watch Repair Service"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":372,"subCategoryName":"Iron Works"},{"IsMobileNoMandatory":false,"categoryId":19,"subCategoryId":373,"subCategoryName":"Steel Fabricator"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":374,"subCategoryName":"Bag Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":375,"subCategoryName":"Interior Decoration Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":376,"subCategoryName":"Cutlery Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":377,"subCategoryName":"Egg Supplier"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":378,"subCategoryName":"Mirror Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":379,"subCategoryName":"Kitchen Appliances Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":380,"subCategoryName":"Glass Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":381,"subCategoryName":"Mattress Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":382,"subCategoryName":"Picture Frame Shop"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":383,"subCategoryName":"Pooja Items Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":384,"subCategoryName":"Furniture Rental Service"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":385,"subCategoryName":"Drinking Water Dispenser"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":386,"subCategoryName":"Scrap Metal Dealer"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":387,"subCategoryName":"Uniform Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":388,"subCategoryName":"Watch Store"},{"IsMobileNoMandatory":false,"categoryId":20,"subCategoryId":389,"subCategoryName":"Magazine Store"}],"Description":"Success","Message":"Success","Result":true,"TotalCount":0,"status":0}
+{
+    "Data": [
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 1,
+            "subCategoryName": "Dine In restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 2,
+            "subCategoryName": "Bar"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 3,
+            "subCategoryName": "Takeaway"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 4,
+            "subCategoryName": "Delivery Only"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 5,
+            "subCategoryName": "Catering"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 6,
+            "subCategoryName": "Coffee Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 7,
+            "subCategoryName": "Juice Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 8,
+            "subCategoryName": "Financial Services"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 9,
+            "subCategoryName": "Administrative Services"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 10,
+            "subCategoryName": "Beauty"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 11,
+            "subCategoryName": "Petrol"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 12,
+            "subCategoryName": "Laundry"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 13,
+            "subCategoryName": "Daycare"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 14,
+            "subCategoryName": "Education"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 15,
+            "subCategoryName": "Jobs"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 16,
+            "subCategoryName": "Logistics / Courier"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 17,
+            "subCategoryName": "Travel Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 18,
+            "subCategoryName": "Telcom"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 19,
+            "subCategoryName": "Real Estate"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 20,
+            "subCategoryName": "Vehicle Repairs And Services"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 21,
+            "subCategoryName": "Funeral Etc"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 22,
+            "subCategoryName": "Apparel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 23,
+            "subCategoryName": "Electronics"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 24,
+            "subCategoryName": "Appliances"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 25,
+            "subCategoryName": "Wine / Alcohol Shops"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 26,
+            "subCategoryName": "Grocery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 27,
+            "subCategoryName": "Books"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 28,
+            "subCategoryName": "Gifts"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 29,
+            "subCategoryName": "Beauty Products"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 30,
+            "subCategoryName": "Home And Furniture"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 31,
+            "subCategoryName": "Malls"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 32,
+            "subCategoryName": "Sports Shops"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 33,
+            "subCategoryName": "Vehicles And Vehicle Parts"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 34,
+            "subCategoryName": "Hotel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 35,
+            "subCategoryName": "Guest House"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 36,
+            "subCategoryName": "Pharmacy"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 37,
+            "subCategoryName": "Hospital"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 38,
+            "subCategoryName": "Clinic"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 39,
+            "subCategoryName": "Dental Clinics"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 40,
+            "subCategoryName": "Homeopathy / Ayurveda"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 41,
+            "subCategoryName": "Labs"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 42,
+            "subCategoryName": "Pet Clinic"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 43,
+            "subCategoryName": "Cinema"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 44,
+            "subCategoryName": "Spa"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 45,
+            "subCategoryName": "Place Of Worship"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 46,
+            "subCategoryName": "Tourist Attractions"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 47,
+            "subCategoryName": "Event Venues"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 23,
+            "subCategoryId": 48,
+            "subCategoryName": "Sports Centers Etc"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 49,
+            "subCategoryName": "Amusement Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 50,
+            "subCategoryName": "Amusement Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 51,
+            "subCategoryName": "Art Gallery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 52,
+            "subCategoryName": "Art Museum"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 53,
+            "subCategoryName": "Bowling Alley"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 54,
+            "subCategoryName": "Community Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 55,
+            "subCategoryName": "Event Venue"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 56,
+            "subCategoryName": "Golf Club"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 57,
+            "subCategoryName": "Golf Course"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 58,
+            "subCategoryName": "Live Music Venue"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 59,
+            "subCategoryName": "Movie Theater"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 60,
+            "subCategoryName": "Museum"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 61,
+            "subCategoryName": "National Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 62,
+            "subCategoryName": "Night Club"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 63,
+            "subCategoryName": "Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 64,
+            "subCategoryName": "Performing Arts Theater"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 65,
+            "subCategoryName": "Stadium"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 66,
+            "subCategoryName": "Theme Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 67,
+            "subCategoryName": "Tourist Attraction"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 68,
+            "subCategoryName": "Water Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 69,
+            "subCategoryName": "Winery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 24,
+            "subCategoryId": 70,
+            "subCategoryName": "Zoo"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 71,
+            "subCategoryName": "Ashram"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 72,
+            "subCategoryName": "Bahá'í House of Worship"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 73,
+            "subCategoryName": "Baptist Church"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 74,
+            "subCategoryName": "Buddhist Temple"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 75,
+            "subCategoryName": "Catholic Church"
+        },
+        {
+            "IsMobileNoMandatory": true,
+            "categoryId": 25,
+            "subCategoryId": 76,
+            "subCategoryName": "Church"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 77,
+            "subCategoryName": "Convent"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 78,
+            "subCategoryName": "Gurudwara"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 79,
+            "subCategoryName": "Hindu Temple"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 80,
+            "subCategoryName": "Jain Temple"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 81,
+            "subCategoryName": "Mission"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 82,
+            "subCategoryName": "Monastery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 83,
+            "subCategoryName": "Mosque"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 84,
+            "subCategoryName": "Pagoda"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 85,
+            "subCategoryName": "Pilgrimage Place"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 86,
+            "subCategoryName": "Place of Worship"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 87,
+            "subCategoryName": "Religious Destination"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 88,
+            "subCategoryName": "Shinto Shrine"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 25,
+            "subCategoryId": 89,
+            "subCategoryName": "Synagogue"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 90,
+            "subCategoryName": "College"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 91,
+            "subCategoryName": "Community College"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 92,
+            "subCategoryName": "Elementary School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 93,
+            "subCategoryName": "High School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 94,
+            "subCategoryName": "Kindergarten"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 95,
+            "subCategoryName": "Middle School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 96,
+            "subCategoryName": "Preschool"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 97,
+            "subCategoryName": "Primary School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 98,
+            "subCategoryName": "Private School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 99,
+            "subCategoryName": "Public School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 100,
+            "subCategoryName": "Public University"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 101,
+            "subCategoryName": "School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 102,
+            "subCategoryName": "Tutoring Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 26,
+            "subCategoryId": 103,
+            "subCategoryName": "University"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 104,
+            "subCategoryName": "Apartment Building"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 105,
+            "subCategoryName": "Apartment Complex"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 106,
+            "subCategoryName": "Cemetery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 107,
+            "subCategoryName": "City Government Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 108,
+            "subCategoryName": "City or Town Hall"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 109,
+            "subCategoryName": "Condominium Complex"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 110,
+            "subCategoryName": "County Government Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 111,
+            "subCategoryName": "Department of Motor Vehicles"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 112,
+            "subCategoryName": "Electric Utility Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 113,
+            "subCategoryName": "Government Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 114,
+            "subCategoryName": "Industrial Area"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 115,
+            "subCategoryName": "Library"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 116,
+            "subCategoryName": "Local Government Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 27,
+            "subCategoryId": 117,
+            "subCategoryName": "Public Library"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 358,
+            "subCategoryName": "Indian Sweets Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 359,
+            "subCategoryName": "Astrologer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 360,
+            "subCategoryName": "Mobile Phone Repair Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 361,
+            "subCategoryName": "Musical Instrument Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 362,
+            "subCategoryName": "Dairy Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 363,
+            "subCategoryName": "Moving Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 364,
+            "subCategoryName": "Fruit & Vegetable Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 118,
+            "subCategoryName": "Car Rental Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 119,
+            "subCategoryName": "Driving School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 120,
+            "subCategoryName": "Gas Station"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 121,
+            "subCategoryName": "Parking Garage"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 122,
+            "subCategoryName": "Parking Lot"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 123,
+            "subCategoryName": "Taxi Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 124,
+            "subCategoryName": "Transportation Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 28,
+            "subCategoryId": 125,
+            "subCategoryName": "Truck Rental Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 126,
+            "subCategoryName": "ATM"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 127,
+            "subCategoryName": "Accountant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 128,
+            "subCategoryName": "Bank"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 129,
+            "subCategoryName": "Credit Union"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 130,
+            "subCategoryName": "Financial Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 131,
+            "subCategoryName": "Financial Planner"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 132,
+            "subCategoryName": "Insurance Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 133,
+            "subCategoryName": "Loan Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 134,
+            "subCategoryName": "Money Transfer Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 135,
+            "subCategoryName": "Savings Bank"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 136,
+            "subCategoryName": "Tax Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 29,
+            "subCategoryId": 137,
+            "subCategoryName": "Tax Preparation Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 30,
+            "subCategoryId": 138,
+            "subCategoryName": "Fire Station"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 30,
+            "subCategoryId": 139,
+            "subCategoryName": "Police Department"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 30,
+            "subCategoryId": 140,
+            "subCategoryName": "Police Station"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 141,
+            "subCategoryName": "Air Conditioning Contractor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 142,
+            "subCategoryName": "Architect"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 143,
+            "subCategoryName": "Business Management Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 144,
+            "subCategoryName": "Computer Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 145,
+            "subCategoryName": "Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 146,
+            "subCategoryName": "Contractor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 147,
+            "subCategoryName": "Engineer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 148,
+            "subCategoryName": "Engineering Consultant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 149,
+            "subCategoryName": "Internet Marketing Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 150,
+            "subCategoryName": "Landscaper"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 151,
+            "subCategoryName": "Lawyer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 152,
+            "subCategoryName": "Legal Services"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 153,
+            "subCategoryName": "Notary Public"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 154,
+            "subCategoryName": "Software Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 31,
+            "subCategoryId": 155,
+            "subCategoryName": "Website Designer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 156,
+            "subCategoryName": "American Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 157,
+            "subCategoryName": "Asian Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 158,
+            "subCategoryName": "Bakery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 159,
+            "subCategoryName": "Bar"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 160,
+            "subCategoryName": "Bar & Grill"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 161,
+            "subCategoryName": "Barbecue Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 162,
+            "subCategoryName": "Breakfast Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 163,
+            "subCategoryName": "Buffet Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 164,
+            "subCategoryName": "Cafe"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 165,
+            "subCategoryName": "Chicken Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 166,
+            "subCategoryName": "Chicken Wings Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 167,
+            "subCategoryName": "Chinese Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 168,
+            "subCategoryName": "Coffee Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 169,
+            "subCategoryName": "Deli"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 170,
+            "subCategoryName": "Diner"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 171,
+            "subCategoryName": "Family Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 172,
+            "subCategoryName": "Fast Food Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 173,
+            "subCategoryName": "French Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 174,
+            "subCategoryName": "Hamburger Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 175,
+            "subCategoryName": "Ice Cream Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 176,
+            "subCategoryName": "Indian Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 177,
+            "subCategoryName": "Italian Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 178,
+            "subCategoryName": "Japanese Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 179,
+            "subCategoryName": "Korean Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 180,
+            "subCategoryName": "Meal Takeaway"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 181,
+            "subCategoryName": "Mexican Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 182,
+            "subCategoryName": "Pizza Delivery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 183,
+            "subCategoryName": "Pizza Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 184,
+            "subCategoryName": "Pub"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 185,
+            "subCategoryName": "Ramen Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 186,
+            "subCategoryName": "Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 187,
+            "subCategoryName": "Sandwich Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 188,
+            "subCategoryName": "Seafood Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 189,
+            "subCategoryName": "Sports Bar"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 190,
+            "subCategoryName": "Steak House"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 191,
+            "subCategoryName": "Sushi Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 192,
+            "subCategoryName": "Tea House"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 193,
+            "subCategoryName": "Thai Restaurant"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 194,
+            "subCategoryName": "Advertising Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 195,
+            "subCategoryName": "Auto Body Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 196,
+            "subCategoryName": "Auto Repair Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 197,
+            "subCategoryName": "Barber Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 198,
+            "subCategoryName": "Beauty Salon"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 199,
+            "subCategoryName": "Cabinet Maker"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 200,
+            "subCategoryName": "Cable Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 201,
+            "subCategoryName": "Car Repair and Maintenance"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 202,
+            "subCategoryName": "Car Wash"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 203,
+            "subCategoryName": "Caterer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 204,
+            "subCategoryName": "Cleaning Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 205,
+            "subCategoryName": "Commercial Printer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 206,
+            "subCategoryName": "Computer Repair Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 207,
+            "subCategoryName": "Construction Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 208,
+            "subCategoryName": "Courier Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 209,
+            "subCategoryName": "Dance School"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 210,
+            "subCategoryName": "Day Care Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 211,
+            "subCategoryName": "Dry Cleaner"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 212,
+            "subCategoryName": "Electrician"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 213,
+            "subCategoryName": "Employment Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 214,
+            "subCategoryName": "Event Planner"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 215,
+            "subCategoryName": "Freight Forwarding Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 216,
+            "subCategoryName": "Funeral Home"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 217,
+            "subCategoryName": "General Contractor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 218,
+            "subCategoryName": "Gym"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 219,
+            "subCategoryName": "Hair Salon"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 220,
+            "subCategoryName": "Health Club"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 221,
+            "subCategoryName": "Home Builder"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 222,
+            "subCategoryName": "House Cleaning Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 223,
+            "subCategoryName": "Interior Designer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 224,
+            "subCategoryName": "Internet Service Provider"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 225,
+            "subCategoryName": "Laundry Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 226,
+            "subCategoryName": "Marketing Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 227,
+            "subCategoryName": "Massage Therapist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 228,
+            "subCategoryName": "Movie Rental Kiosk"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 229,
+            "subCategoryName": "Nail Salon"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 230,
+            "subCategoryName": "Newspaper Publisher"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 231,
+            "subCategoryName": "Painter"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 232,
+            "subCategoryName": "Pest Control Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 233,
+            "subCategoryName": "Photographer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 234,
+            "subCategoryName": "Plumber"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 235,
+            "subCategoryName": "Post Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 236,
+            "subCategoryName": "Property Management Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 237,
+            "subCategoryName": "Public Swimming Pool"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 238,
+            "subCategoryName": "Publisher"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 239,
+            "subCategoryName": "Real Estate Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 240,
+            "subCategoryName": "Real Estate Agents"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 241,
+            "subCategoryName": "Real Estate Developer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 242,
+            "subCategoryName": "Roofing Contractor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 243,
+            "subCategoryName": "Shipping Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 244,
+            "subCategoryName": "Shipping and Mailing Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 245,
+            "subCategoryName": "Spa"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 246,
+            "subCategoryName": "Tailor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 247,
+            "subCategoryName": "Telecommunications Service Provider"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 248,
+            "subCategoryName": "Tire Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 249,
+            "subCategoryName": "Tourist Information Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 250,
+            "subCategoryName": "Travel Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 251,
+            "subCategoryName": "Trucking Company"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 252,
+            "subCategoryName": "Appliance Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 253,
+            "subCategoryName": "Auto Parts Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 254,
+            "subCategoryName": "Baby Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 255,
+            "subCategoryName": "Beauty Supply Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 256,
+            "subCategoryName": "Bicycle Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 257,
+            "subCategoryName": "Book Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 258,
+            "subCategoryName": "Boutique"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 259,
+            "subCategoryName": "Bridal Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 260,
+            "subCategoryName": "Building Materials Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 261,
+            "subCategoryName": "Butcher Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 262,
+            "subCategoryName": "Car Dealer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 263,
+            "subCategoryName": "Cell Phone Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 264,
+            "subCategoryName": "Children's Clothing Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 265,
+            "subCategoryName": "Clothing Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 266,
+            "subCategoryName": "Coffee Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 267,
+            "subCategoryName": "Computer Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 268,
+            "subCategoryName": "Convenience Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 269,
+            "subCategoryName": "Cosmetics Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 270,
+            "subCategoryName": "Craft Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 271,
+            "subCategoryName": "Department Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 272,
+            "subCategoryName": "Dessert Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 273,
+            "subCategoryName": "Discount Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 274,
+            "subCategoryName": "Discount Supermarket"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 275,
+            "subCategoryName": "Donut Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 276,
+            "subCategoryName": "Drug Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 277,
+            "subCategoryName": "Electrical Supply Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 278,
+            "subCategoryName": "Electronics Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 279,
+            "subCategoryName": "Fabric Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 280,
+            "subCategoryName": "Fashion Accessories Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 281,
+            "subCategoryName": "Florist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 282,
+            "subCategoryName": "Furniture Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 283,
+            "subCategoryName": "General Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 284,
+            "subCategoryName": "Gift Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 285,
+            "subCategoryName": "Grocery Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 286,
+            "subCategoryName": "Hardware Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 287,
+            "subCategoryName": "Health Food Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 288,
+            "subCategoryName": "Home Goods Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 289,
+            "subCategoryName": "Home Improvement Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 290,
+            "subCategoryName": "Jeweler"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 291,
+            "subCategoryName": "Jewelry Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 292,
+            "subCategoryName": "Lingerie Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 293,
+            "subCategoryName": "Liquor Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 294,
+            "subCategoryName": "Lottery Retailer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 295,
+            "subCategoryName": "Market"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 296,
+            "subCategoryName": "Men's Clothing Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 297,
+            "subCategoryName": "Motorcycle Dealer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 298,
+            "subCategoryName": "Office Supply Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 299,
+            "subCategoryName": "Optician"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 300,
+            "subCategoryName": "Outdoor Sports Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 301,
+            "subCategoryName": "Outlet Mall"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 302,
+            "subCategoryName": "Paint Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 303,
+            "subCategoryName": "Pawn Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 304,
+            "subCategoryName": "Pet Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 305,
+            "subCategoryName": "Pet Supply Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 306,
+            "subCategoryName": "Pharmacy"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 307,
+            "subCategoryName": "Print Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 308,
+            "subCategoryName": "Shoe Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 309,
+            "subCategoryName": "Shopping Mall"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 310,
+            "subCategoryName": "Sporting Goods Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 311,
+            "subCategoryName": "Sportswear Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 312,
+            "subCategoryName": "Stationery Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 313,
+            "subCategoryName": "Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 314,
+            "subCategoryName": "Supermarket"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 315,
+            "subCategoryName": "Tattoo Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 316,
+            "subCategoryName": "Thrift Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 317,
+            "subCategoryName": "Tobacco Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 318,
+            "subCategoryName": "Toy Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 319,
+            "subCategoryName": "Used Car Dealer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 320,
+            "subCategoryName": "Video Game Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 321,
+            "subCategoryName": "Warehouse club"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 322,
+            "subCategoryName": "Wine Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 323,
+            "subCategoryName": "Women's Clothing Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 324,
+            "subCategoryName": "Beach Resort"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 325,
+            "subCategoryName": "Bed & Breakfast"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 326,
+            "subCategoryName": "Budget Hotel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 327,
+            "subCategoryName": "Campground"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 328,
+            "subCategoryName": "Extended Stay Hotel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 329,
+            "subCategoryName": "Guest House"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 330,
+            "subCategoryName": "Hostel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 331,
+            "subCategoryName": "Hotel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 332,
+            "subCategoryName": "Luxury Hotel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 333,
+            "subCategoryName": "Motel"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 334,
+            "subCategoryName": "RV Park"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 21,
+            "subCategoryId": 335,
+            "subCategoryName": "Resort"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 336,
+            "subCategoryName": "Animal Hospital"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 337,
+            "subCategoryName": "Chiropractor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 338,
+            "subCategoryName": "Dental Clinic"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 339,
+            "subCategoryName": "Dentist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 340,
+            "subCategoryName": "Dermatologist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 341,
+            "subCategoryName": "Doctor"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 342,
+            "subCategoryName": "Eye Care Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 343,
+            "subCategoryName": "Family Practice Physician"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 344,
+            "subCategoryName": "General Practitioner"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 345,
+            "subCategoryName": "Home Health Care Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 346,
+            "subCategoryName": "Hospital"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 347,
+            "subCategoryName": "Internist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 348,
+            "subCategoryName": "Medical Center"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 349,
+            "subCategoryName": "Medical Clinic"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 350,
+            "subCategoryName": "Medical Laboratory"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 351,
+            "subCategoryName": "Nursing Agency"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 352,
+            "subCategoryName": "Obstetrician-Gynecologist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 353,
+            "subCategoryName": "Optometrist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 354,
+            "subCategoryName": "Pediatrician"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 355,
+            "subCategoryName": "Physical Therapist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 356,
+            "subCategoryName": "Psychologist"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 22,
+            "subCategoryId": 357,
+            "subCategoryName": "Veterinarian"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 365,
+            "subCategoryName": "Food Delivery"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 18,
+            "subCategoryId": 366,
+            "subCategoryName": "Dhaba"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 367,
+            "subCategoryName": "Appliance Repair Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 368,
+            "subCategoryName": "Passport Office"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 369,
+            "subCategoryName": "Internet Cafe"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 370,
+            "subCategoryName": "Sewing Machine Repair Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 371,
+            "subCategoryName": "Watch Repair Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 372,
+            "subCategoryName": "Iron Works"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 19,
+            "subCategoryId": 373,
+            "subCategoryName": "Steel Fabricator"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 374,
+            "subCategoryName": "Bag Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 375,
+            "subCategoryName": "Interior Decoration Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 376,
+            "subCategoryName": "Cutlery Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 377,
+            "subCategoryName": "Egg Supplier"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 378,
+            "subCategoryName": "Mirror Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 379,
+            "subCategoryName": "Kitchen Appliances Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 380,
+            "subCategoryName": "Glass Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 381,
+            "subCategoryName": "Mattress Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 382,
+            "subCategoryName": "Picture Frame Shop"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 383,
+            "subCategoryName": "Pooja Items Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 384,
+            "subCategoryName": "Furniture Rental Service"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 385,
+            "subCategoryName": "Drinking Water Dispenser"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 386,
+            "subCategoryName": "Scrap Metal Dealer"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 387,
+            "subCategoryName": "Uniform Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 388,
+            "subCategoryName": "Watch Store"
+        },
+        {
+            "IsMobileNoMandatory": false,
+            "categoryId": 20,
+            "subCategoryId": 389,
+            "subCategoryName": "Magazine Store"
+        }
+    ],
+    "Description": "Success",
+    "Message": "Success",
+    "Result": true,
+    "TotalCount": 0,
+    "status": 0
+}
